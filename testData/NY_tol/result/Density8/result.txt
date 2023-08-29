@@ -1,0 +1,105 @@
+GLAD : totol time = 0.26991	average time = 0.00026991
+keywords:3%  querykey:2-{156,343}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 0.33786	average time = 0.00033786
+keywords:3%  querykey:4-{147,245,354,498}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 0.83388	average time = 0.00083388
+keywords:3%  querykey:6-{99,154,295,334,347,456}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 14.5545	average time = 0.0145545
+keywords:3%  querykey:8-{137,247,359,468,521,570,591,621}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 14.111	average time = 0.014111
+keywords:3%  querykey:8-{137,247,359,468,521,570,591,621}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 1113.51	average time = 1.11351
+keywords:3%  querykey:10-{45,89,145,169,258,290,358,402,479,587}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 22.9502	average time = 0.0229502
+keywords:3%  querykey:6-{99,154,295,334,347,456}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 30.0201	average time = 0.0300201
+keywords:3%  querykey:8-{137,247,359,468,521,570,591,621}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 24.9828	average time = 0.0249828
+keywords:3%  querykey:4-{147,245,354,498}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 12.361	average time = 0.012361
+keywords:3%  querykey:2-{156,343}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 142.745	average time = 0.142745
+keywords:3%  querykey:10-{45,89,145,169,258,290,358,402,479,587}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 12.5461	average time = 0.0125461
+keywords:3%  querykey:2-{156,343}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 25.1064	average time = 0.0251064
+keywords:3%  querykey:4-{147,245,354,498}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 23.1499	average time = 0.0231499
+keywords:3%  querykey:6-{99,154,295,334,347,456}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 29.7669	average time = 0.0297669
+keywords:3%  querykey:8-{137,247,359,468,521,570,591,621}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 31.5845	average time = 0.0315845
+keywords:3%  querykey:10-{45,89,145,169,258,290,358,402,479,587}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 14.4826	average time = 0.0144826
+keywords:3%  querykey:2-{156,343}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 27.966	average time = 0.027966
+keywords:3%  querykey:4-{147,245,354,498}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 26.9178	average time = 0.0269178
+keywords:3%  querykey:6-{99,154,295,334,347,456}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 34.7908	average time = 0.0347908
+keywords:3%  querykey:8-{137,247,359,468,521,570,591,621}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 39.0054	average time = 0.0390054
+keywords:3%  querykey:10-{137,247,359,468,521,570,591,621}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 5.72339	average time = 0.00572339
+keywords:3%  querykey:10-{137,247,359,468,521,570,591,621}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 37.9464	average time = 0.0379464
+keywords:3%  querykey:10-{137,247,359,468,521,570,591,621}  Dis:0~20% Path generation: weight
+---------------------------------------
+
+GLAD : totol time = 31.2463	average time = 0.0312463
+COL keywords:6%  querykey:6-{6,18,24,33,46,2,34,25,47,19}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 29.4004	average time = 0.0294004
+COL keywords:6%  querykey:6-{6,18,24,33,46,2,34,25,47,19}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+IG_Maxprune : totol time = 2.66793	average time = 0.00266793
+IG-Tree candidate: 0
+keywords:3%  querykey:6-{99,154,295,334,347,456}  Dis:10~20%
+---------------------------------------
+

@@ -1,0 +1,28 @@
+
+DAPrune_Skyprune : totol time = 297.913	average time = 0.297913
+ DAprune-SkyPrune candidate： 919
+keywords:3% querykey:6-{287,369,443,576,825,975}  Dis:10~20%
+---------------------------------------------
+
+
+DAPrune_Skyprune : totol time = 525.982	average time = 0.525982
+ DAprune-SkyPrune candidate： 1237
+keywords:3% querykey:6-{287,369,443,576,825,975}  Dis:10~20%
+---------------------------------------------
+
+GLAD : totol time = 43.3373	average time = 0.0433373
+COL keywords:6%  querykey:6-{6,18,24,33,46,2,34,25,47,19}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 40.1428	average time = 0.0401428
+COL keywords:6%  querykey:6-{6,18,24,33,46,2,34,25,47,19}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 40.7719	average time = 0.0407719
+COL keywords:6%  querykey:6-{6,18,24,33,46,2,34,25,47,19}  Dis:0~20% Path generation: enum
+---------------------------------------
+
+GLAD : totol time = 43.9456	average time = 0.0439456
+COL keywords:6%  querykey:6-{6,18,24,33,46,2,34,25,47,19}  Dis:0~20% Path generation: enum
+---------------------------------------
+

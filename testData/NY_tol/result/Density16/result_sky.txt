@@ -1,0 +1,7 @@
+
+
+DAPrune_Sky : totol time = 3287.78	average time = 3.28778
+DAprune-Sky candidate： 5130
+keywords:3% querykey:6-{287,369,443,576,825,975}  Dis:10~20%
+---------------------------------------------
+

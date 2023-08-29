@@ -1,0 +1,66 @@
+
+DAPrune_Sky : totol time = 332.769	average time = 0.332769
+DAprune-Sky candidate： 395
+keywords:3% querykey:4-{263,285,330,489}  Dis:10~20%
+---------------------------------------------
+
+
+DAPrune_Sky : totol time = 3370.87	average time = 3.37087
+DAprune-Sky candidate： 5486
+keywords:3% querykey:6-{391,501,516,222,269,393}  Dis:10~20%
+---------------------------------------------
+
+
+
+
+
+
+
+
+DAPrune_Sky : totol time = 40689.1	average time = 40.6891
+DAprune-Sky candidate： 68127
+keywords:3% querykey:8-{97,234,376,326,437,385,525,603}  Dis:10~20%
+---------------------------------------------
+
+
+DAPrune_Sky : totol time = 1009.32	average time = 1.00932
+DAprune-Sky candidate： 1787
+keywords:3% querykey:6-{426,635,727,730,271,556}  Dis:10~20%
+---------------------------------------------
+
+
+DAPrune_Sky : totol time = 1008.55	average time = 1.00855
+DAprune-Sky candidate： 1787
+keywords:3% querykey:6-{426,635,727,730,271,556}  Dis:10~20%
+---------------------------------------------
+
+
+DAPrune_Sky : totol time = 613.714	average time = 0.613714
+DAprune-Sky candidate： 934
+keywords:3% querykey:6-{598,676,1047,1196,1410,1411}  Dis:10~20%
+---------------------------------------------
+
+
+DAPrune_Sky : totol time = 549.766	average time = 0.549766
+DAprune-Sky candidate： 693
+keywords:3% querykey:6-{936,1265,1417,1589,1603,1769}  Dis:10~20%
+---------------------------------------------
+
+
+DAPrune_Sky : totol time = 522.893	average time = 0.522893
+DAprune-Sky candidate： 539
+keywords:3% querykey:6-{936,1265,1417,1589,1603,1769}  Dis:10~20%
+---------------------------------------------
+
+
+DAPrune_Sky : totol time = 456.899	average time = 0.456899
+DAprune-Sky candidate： 640
+keywords:3% querykey:6-{391,501,516,222,269,393}  Dis:0~10%
+---------------------------------------------
+
+
+DAPrune_Sky : totol time = 64509.4	average time = 64.5094
+DAprune-Sky candidate： 100201
+keywords:3% querykey:10-{978,349,407,146,421,690,643,726,829,626}  Dis:10~20%
+---------------------------------------------
+
